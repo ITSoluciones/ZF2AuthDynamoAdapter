@@ -1,6 +1,5 @@
 <?php
 /**
- * ITSoluciones EIRL
  * ZF2 Auth Adapter with AWS DynamoDB.
  *
  * @license		MIT
