@@ -1,9 +1,9 @@
 {
-    "name": "itsoluciones/dynamodbadapter",
+    "name": "itsoluciones/zf2authdynamoadapter",
     "type": "library",
     "description": "ZF2 Auth Adapter with DynamoDB",
     "keywords": ["zf2","auth","adapter"],
-    "homepage": "https://github.com/ITSoluciones/DynamoDBAdapter",
+    "homepage": "https://github.com/ITSoluciones/ZF2AuthDynamoAdapter",
     "license": "MIT",
     "authors": [
         {
